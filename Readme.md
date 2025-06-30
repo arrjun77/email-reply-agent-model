@@ -101,26 +101,26 @@ Generate a smart reply
 
 Send the reply to your Telegram chat
 
-Optionally send the email reply to the original sender
+Send the email reply to the original sender
 
 Requirements
 
 Major dependencies used in the project:
 
-google-api-python-client
+    google-api-python-client
 
-oauth2client
+    oauth2client
 
-transformers
+    transformers
 
-torch
+    torch
 
-nltk
+    nltk
 
-scikit-learn
+    scikit-learn
 
-requests
+    requests
 
-python-dotenv
+    python-dotenv
 
 See requirements.txt for the full list.
