@@ -56,6 +56,7 @@ Setup Instructions
 
 Clone the repository:
 git clone https://github.com/arrjun77/email-reply-agent-model.git
+
 cd email_reply_agent
 
 Create and activate a virtual environment:
